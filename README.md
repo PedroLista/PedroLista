@@ -6,11 +6,11 @@ Estudiante de DAM y Ciberseguridad
 
 ## Perfiles Profesionales
 
-<a href="www.linkedin.com/in/pedrolista">
-  <img alt="LinkedIN" width="60px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" />
+<a href="https://www.linkedin.com/in/pedrolista">
+  <img alt="LinkedIN" width="120px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" />
 </a>
  
-[![LinkedIn](hhttps://logowik.com/content/uploads/images/linkedin-new4645.jpg)](www.linkedin.com/in/pedrolista)
+
 ## Lenguajes y Herramientas:
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"></code>
