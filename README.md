@@ -7,7 +7,7 @@ Estudiante de DAM y Ciberseguridad
 ## Perfiles Profesionales
 
 <a href="www.linkedin.com/in/pedrolista">
-  <img align="left" alt="LinkedIN" width="60px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" />
+  <img alt="LinkedIN" width="100px" src="https://logowik.com/content/uploads/images/linkedin-new4645.jpg" />
 </a>
  
 
