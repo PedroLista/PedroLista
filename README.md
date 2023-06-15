@@ -1,7 +1,8 @@
 
 # Pedro Manuel Lista Vazquez
 
-Estudiante de DAM <code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcampusnet.es%2Fcampus-virtual%2Fpluginfile.php%2F1%2Fcore_admin%2Flogo%2F0x150%2F1632040284%2FCampusNET.es%2520logo-01.png&f=1&nofb=1&ipt=05eb61d122f4c7a04ceba2bf8b4f0bd978f956efadcb8068a275c49ed058badd&ipo=images)"></code>y Ciberseguridad<code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe0%2FCisco_academy_logo.svg%2F1200px-Cisco_academy_logo.svg.png&f=1&nofb=1&ipt=6b41da1fc046bcca72c8582a09cf2c9ece57796d39ac8a2f2e9c144d65fd5ec8&ipo=images)"></code>
+Estudiante de DAM <code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcampusnet.es%2Fwp-content%2Fuploads%2F2021%2F01%2FCampusNET.es-logo02-Inicio.png&f=1&nofb=1&ipt=ae6e3c82ff1b8e72b2b2d6edbd0a92dc556bebfcd893bf352f35d454f28537e0&ipo=images)"></code>
+Estudiante de Ciberseguridad<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
 
 
 ## Perfiles Profesionales
